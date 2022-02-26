@@ -3,7 +3,7 @@ import CustomBtn from './CustomBtn.js';
 import '../styles/Cards.css';
 import  accesoriesImg from "../static/img/Accessories.png";
 import toysImg from "../static/img/toyyyyyy.png";
-import framesImg from "../static/img/teddy.png";
+import framesImg from "../static/img/frame.png";
 import gitftsImg from "../static/img/gift.png";
 import stationaryImg from "../static/img/stationary.png";
 import covidGearImg from "../static/img/covid_gear2.png";
