@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+.navbars{
+   background-color: none;
+   font-weight: bold;
+   font-family: 'Work Sans', sans-serif;
+}
+
+.nav-items{
+   margin-right: 20%;
+}
+
+.drop{
+   background-color: rgb(227, 236, 208);
+   color: white;
+}
