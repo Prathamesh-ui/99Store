@@ -8,12 +8,6 @@ import gitftsImg from "../static/img/gift.png";
 import stationaryImg from "../static/img/covid_gear.png";
 import covidGearImg from "../static/img/covid_gear2.png";
 
-
-
-
-
-
-
 function Cards() {
     return (
         <div>
